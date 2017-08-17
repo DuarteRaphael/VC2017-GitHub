@@ -13,7 +13,7 @@ namespace TesteConsoleApp
             //Mensagem exibida na tela.
             Console.WriteLine("Exemplo de uso do GitHub");
 
-            //Adcionando título ao console application (Primeira alteração)
+            //Adicionando título ao console application (Primeira alteração)
             //testando commit / changes
             Console.Title = "Exemplo do GitHub";
 
